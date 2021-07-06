@@ -15,7 +15,7 @@ a.bg-primary:hover,
 .lg-actions .lg-prev, 
 .lg-sub-html, 
 .lg-toolbar{
-    background-color: #2e79ff;
+    background-color: #Ff9900;
 }
 
 /*Hex color :hover */
@@ -26,7 +26,7 @@ a.bg-primary:hover,
 .bg-primary-dark,
 .sidenav .closebtn:hover,
 .style-2 .dez-social-icon.dez-border li a:hover{
-    background-color: #18b5ff;
+    background-color: #Ff9900;
 }
 
 /*===================== 
@@ -38,7 +38,7 @@ a,
 .dez-countdown .date .time,
 .lg-outer .lg-toogle-thumb,
 .lg-outer .lg-toogle-thumb:hover {
-    color: #2e79ff;
+    color: #Ff9900;
 }
 
 /*===================== 
@@ -47,12 +47,12 @@ a,
 .subscribe-box .form-control,
 .site-button.outline,
 .dez-countdown .date .time{
-	border-color:#2e79ff;
+	border-color:#Ff9900;
 }
 
 .lg-outer .lg-thumb-item.active, 
 .lg-outer .lg-thumb-item:hover{
-	border-color: #2e79ff;
+	border-color: #Ff9900;
 }
 
 /* GD */
@@ -86,7 +86,7 @@ a,
 }
 #loading-area > div,
 .site-button.shadow{
-	box-shadow: 10px 10px 30px 0 rgba(47,120,255,0.25) !important;
+	box-shadow: 10px 10px 30px 0 #FCC470 !important;
 }
 
 

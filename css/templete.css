@@ -70,7 +70,7 @@
 .localizationTool .ltool-dropdown-label{
 	background-image: url(../images/icon/lang.png), linear-gradient(to right,#2e79ff 0,#5462ff 51%,#2e79ff 100%);
     background-size: 18px, 200%;
-    box-shadow: 10px 10px 30px 0 rgba(47,120,255,0.25) !important;
+    box-shadow: 10px 10px 30px 0 #FCC470 !important;
     width: 40px;
     height: 40px;
     background-repeat: no-repeat;
@@ -444,7 +444,7 @@
     width: 50px;
     height: 50px;
     z-index: 2;
-    background: #5362ff;
+    background: #Ff9900;
     font-size: 30px;
     font-weight: 200;
     line-height: 50px;
@@ -888,7 +888,7 @@
 	text-shadow: 10px 10px 30px #fcc4706c;
 }
 .style-1 .dez-social-icon li a{
-	box-shadow: 10px 10px 30px 0 rgba(47,120,255,0.25) ;
+	box-shadow: 10px 10px 30px 0 #FCC470 ;
 	color:#fff;
 	margin-left:5px;
 	transition:all 0.5s;
@@ -1740,7 +1740,7 @@ font-size: 120px;
     height: 80px;
     border-radius: 50px;
     background: linear-gradient(to right,#2e79ff 0,#5462ff 51%,#2e79ff 100%);
-    box-shadow: -10px 10px 30px 0 rgba(47,120,255,0.25) !important;
+    box-shadow: -10px 10px 30px 0 #FCC470 !important;
     background-size: 200%;	
 	position:relative;
 	z-index:-1;

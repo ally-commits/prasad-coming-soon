@@ -302,7 +302,7 @@ jQuery(document).ready(function() {
 jQuery(window).on("load", function (e) {
 	Frost.load();
 	setTimeout(function(){
-		jQuery('#loading-area').remove();
+		// jQuery('#loading-area').remove();
 	}, 0);
 });
 /*  Window Load END */

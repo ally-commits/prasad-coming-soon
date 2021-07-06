@@ -15,7 +15,7 @@ a.bg-primary:hover,
 .lg-actions .lg-prev, 
 .lg-sub-html, 
 .lg-toolbar{
-    background-color: #5362ff;
+    background-color: #Ff9900;
 }
 
 /*Hex color :hover */
@@ -38,7 +38,7 @@ a,
 .dez-countdown .date .time,
 .lg-outer .lg-toogle-thumb,
 .lg-outer .lg-toogle-thumb:hover {
-    color: #5362ff;
+    color: #Ff9900;
 }
 
 /*===================== 
@@ -46,12 +46,12 @@ a,
 =====================*/
 .site-button.outline,
 .dez-countdown .date .time{
-	border-color:#5362ff;
+	border-color:#Ff9900;
 }
 
 .lg-outer .lg-thumb-item.active, 
 .lg-outer .lg-thumb-item:hover{
-	border-color: #5362ff;
+	border-color: #Ff9900;
 }
 
 /* GD */
@@ -80,7 +80,7 @@ a,
 }
 #loading-area > div,
 .site-button.shadow{
-	box-shadow: 10px 10px 30px 0 rgba(47,120,255,0.25) !important;
+	box-shadow: 10px 10px 30px 0 #fcc470a6 !important;
 }
 
 
